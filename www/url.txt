@@ -1,1 +1,1 @@
-https://example.com/
+https://circle-media-nyr-app.vercel.app/admin.html
